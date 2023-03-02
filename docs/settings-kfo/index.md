@@ -1,5 +1,12 @@
 # Настройки КФО
 
+## Разделы документации
+
+* [Работа с расширением](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/how-to-work/index)
+* [Настройки соответствия платежей](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/payment-match-settings/index)
+* [Настройки КФО](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/settings-kfo/index)
+* [Часто задаваемые вопросы](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/faq/index)
+
 Откроем настройки. Для этого на форме обработки откроем ``Настройки -> Настройки КФО``. 
 
 * Нажмите на кнопку ``Добавить``, чтобы создать настройку. 

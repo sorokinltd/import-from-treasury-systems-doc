@@ -1,5 +1,12 @@
 # Часто задаваемые вопросы
 
+## Разделы документации
+
+* [Работа с расширением](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/how-to-work)
+* [Настройки соответствия платежей](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/payment-match-settings)
+* [Настройки КФО](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/settings-kfo)
+* [Часто задаваемые вопросы](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/faq)
+
 ## 1. Как установить расширение?
 
 Решение:
@@ -59,11 +66,7 @@
 
 Решение:
 
-* Убедитесь, что ``Настройки КФО`` заполнены корректно. Для этого в обработке откройте ``Настройки -> Настройки КФО``. 
-* Нажмите на кнопку ``Добавить``, чтобы создать настройку. В поле `Тип средств` нужно написать число, указанное в назначении платежа после ТС. 
-
-Например: в назначении платежа есть такая строка `ТС131912`. 
-Для корректного заполнения КФО нужно создать настройку, в ``Тип средств`` указать ``131912``, а в ``КФО`` то значение, которое вам нужно.
+* Убедитесь, что ``Настройки КФО`` заполнены корректно. Как настроить см. [здесь](https://sorokinltd.github.io/import-from-treasury-systems-doc.github.io/docs/settings-kfo/index)
 
 ## 9. При импорте КПС заполняются нулями.
 
